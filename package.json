@@ -1,0 +1,21 @@
+{
+  "name": "designwithnodejs",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.6",
+    "nodemon": "^2.0.18",
+    "twilio": "^3.78.0"
+  }
+}
